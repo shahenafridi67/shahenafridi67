@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahenafridi67
 - 👀 I’m interested in Artificial-Intelligence-Projects
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Software Architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shahenafridi67@gmail.com
 
