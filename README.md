@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahenafridi67..
+- 👋 Hi, I’m @shahenafridi67
 - 👀 I’m interested in Artificial-Intelligence-Projects.
 - 🌱 I’m currently learning Software Architecture.
 - 💞️ I’m looking to collaborate on geekbrains.
