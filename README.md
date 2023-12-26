@@ -6,4 +6,4 @@
 
 <!---
 shahenafridi67/shahenafridi67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview lie a look at your 
+You can click the Preview lie a look at you
