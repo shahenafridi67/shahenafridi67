@@ -5,5 +5,5 @@
 - 📫 How to reach me shahenafridi67@gmail.com
 
 <!---
-shahenafridi67/shahenafridi67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
+shahenafridi67/shahenafridi67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profil
 
