@@ -5,4 +5,4 @@
 - 📫 How to reach me shahenafridi67@gmail.com
 
 <!---
-shahenafridi67/shahenafridi67 is a ✨ special ✨ repository because its `REA
+shahenafridi67/shahenafridi67 is a ✨ special ✨ repository because its `RE
